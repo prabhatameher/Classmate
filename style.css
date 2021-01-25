@@ -231,10 +231,9 @@ li a{
 
     section .content p {
         font-size: 10px;
+        text-align: justify;
     }
-    .line{
-        font-size: 8px;
-    }
+   
  
 }
 
