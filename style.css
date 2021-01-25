@@ -238,7 +238,21 @@ li a{
 }
 
 
+.footer{
+    display: block;
+    height: 100vh;
+    font-weight: bolder;
+    position: fixed;
+    top: 35%;
+    writing-mode: vertical-rl; 
+    margin-right: 20px;
 
+}
+.footer p{
+    color: #149414;
+    -webkit-animation: colorchange 10s infinite alternate;
+    opacity: .1;
+}
 
 
 
